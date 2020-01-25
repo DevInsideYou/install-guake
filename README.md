@@ -2,5 +2,5 @@
 
 ```bash
 wget -q https://script.install.devinsideyou.com/guake
-sudo chmod +x guake && ./guake
+chmod +x guake && sudo ./guake
 ```
